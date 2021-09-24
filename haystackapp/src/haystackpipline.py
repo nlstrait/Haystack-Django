@@ -5,7 +5,7 @@ def search(query, debug=False):
     if debug:
         result = ''
         result += 'Query: ' + query + '\n'
-        result += 'Answer: I don\'t know jack shit!'
+        result += 'Answer: I don\'t know anything!'
         if 'test' in hspipe:
             result += '\nHaystack pipeline is accessible. YES!'
         return result
