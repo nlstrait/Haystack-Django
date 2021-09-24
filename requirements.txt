@@ -1,3 +1,8 @@
 django
 gunicorn
 django-heroku
+grpcio-tools
+git+https://github.com/deepset-ai/haystack.git
+farm-haystack
+boto3
+requests
